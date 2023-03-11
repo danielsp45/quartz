@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Daniel Pereira
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -18,12 +18,11 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  This is my personal vault where I store everything from my University notes to bug solutions. Feel free to wonder around!
 page_title:
-  "🪴 Quartz 3.3"
+  "🚀 Daniel's Vault"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/danielsp_45
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/danielsp45
